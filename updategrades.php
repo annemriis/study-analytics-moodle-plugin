@@ -20,8 +20,8 @@
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-use classes\form\update_grades;
 use classes\form\automatic_update_grades;
+use classes\form\update_grades;
 
 require_once(__DIR__.'/../../config.php');
 require_once($CFG->dirroot.'/local/study_analytics/classes/form/update_grades.php');

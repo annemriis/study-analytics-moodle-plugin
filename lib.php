@@ -21,8 +21,8 @@
  * @var stdClass $plugin
  */
 
+use classes\task\grade_adhoc_task;
 use core\task\manager;
-use local_study_analytics\task\grade_adhoc_task;
 
 defined('MOODLE_INTERNAL') || die;
 

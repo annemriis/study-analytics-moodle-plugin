@@ -14,7 +14,7 @@
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
-namespace local_study_analytics\task;
+namespace classes\task;
 
 require_once($CFG->dirroot.'/local/study_analytics/lib.php');
 

@@ -24,7 +24,7 @@
 
 $tasks = [
     [
-        'classname' => 'local_study_analytics\task\auto_update_task',
+        'classname' => 'classes\task\auto_update_task',
         'blocking' => 0,
         'minute' => '30',
         'hour' => '4',
